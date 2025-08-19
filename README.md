@@ -1,6 +1,6 @@
 # Panduan Lengkap Tools Injeck HTTP Custom, OpenClash, Tembak Kuota, Generate Config, Bug Operator, dan Response Checker
 
-<img src="[https://github.com/haniefautophile-official/ToolsInjeck-HttpCustom-OpenWRT/blob/main/SS/ss2.jpg]"/>
+<img src="https://github.com/haniefautophile-official/ToolsInjeck-HttpCustom-OpenWRT/blob/main/SS/ss2.jpg"/>
 
 Di era koneksi internet cepat, memiliki alat yang tepat untuk mengelola jaringan sangat penting.  
 **Tools Injeck HTTP Custom, OpenClash, Tembak Kuota, Generate Config, Bug Operator, dan Response Checker** dirancang untuk membantu pengguna mengoptimalkan pengalaman internet mereka dengan mudah dan aman.
